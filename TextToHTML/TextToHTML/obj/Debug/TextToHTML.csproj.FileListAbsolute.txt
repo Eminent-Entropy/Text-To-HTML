@@ -1,0 +1,14 @@
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\bin\Debug\TextToHTML.exe.config
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\obj\Debug\TextToHTML.csprojResolveAssemblyReference.cache
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\obj\Debug\TextToHTML.Form1.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\obj\Debug\TextToHTML.Form2.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\obj\Debug\TextToHTML.Properties.Resources.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\obj\Debug\TextToHTML.csproj.GenerateResource.Cache
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\bin\Debug\TextToHTML.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\bin\Debug\TextToHTML.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\obj\Debug\TextToHTML.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\obj\Debug\TextToHTML.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\bin\Debug\TextToHTML.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\bin\Debug\TextToHTML.application
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\obj\Debug\TextToHTML.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\TextToHTML\TextToHTML\obj\Debug\TextToHTML.application
